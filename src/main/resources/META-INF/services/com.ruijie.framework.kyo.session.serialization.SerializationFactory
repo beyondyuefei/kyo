@@ -1,0 +1,3 @@
+com.ruijie.framework.kyo.session.serialization.fastjson.FastjsonSerializationFactory
+com.ruijie.framework.kyo.session.serialization.java.NativeJavaSerializationFactory
+com.ruijie.framework.kyo.session.serialization.hessian.HessianSerializationFactory
